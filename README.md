@@ -1,3 +1,3 @@
-### Completely Random
+# Completely Random
 
-# Snippets of code or publically available source code to refer back to
+### Snippets of code or publically available source code to refer back to
