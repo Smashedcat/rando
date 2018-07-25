@@ -1,3 +1,5 @@
-# Completely Random
+# Paris Itinerary
 
-### Snippets of code or publically available source code to refer back to
+### Day 1 (Thursday August 9th)
+
+
